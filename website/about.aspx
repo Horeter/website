@@ -9,4 +9,8 @@
   <p>
     It is a pixelmon server, with two regions, 16 gyms and 2 champions.
   </p>
+  <h2>BUTTON!!</h2>
+  <p>
+    <button class="btn btn-lg btn-default" type="button">Click here</button>
+  </p>
 </asp:Content>
